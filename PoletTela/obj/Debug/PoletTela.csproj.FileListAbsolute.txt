@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Polet-Tela\PoletTela\bin\Debug\PoletTela.exe.config
+C:\Users\user\Desktop\Polet-Tela\PoletTela\bin\Debug\PoletTela.exe
+C:\Users\user\Desktop\Polet-Tela\PoletTela\bin\Debug\PoletTela.pdb
+C:\Users\user\Desktop\Polet-Tela\PoletTela\obj\Debug\PoletTela.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Polet-Tela\PoletTela\obj\Debug\PoletTela.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Polet-Tela\PoletTela\obj\Debug\PoletTela.exe
+C:\Users\user\Desktop\Polet-Tela\PoletTela\obj\Debug\PoletTela.pdb
